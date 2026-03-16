@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">STEP TITLE</h2> 
 
 --- task ---
 
