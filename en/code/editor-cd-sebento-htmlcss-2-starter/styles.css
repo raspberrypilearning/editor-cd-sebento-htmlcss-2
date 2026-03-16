@@ -8,8 +8,12 @@ body {
     font-family: "Times New Roman", serif;
   }
 
-
-
+.topDivider { 
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #F5FFFA;
+  padding-bottom: 10px;
+}
 
 nav ul {
     background-color: tomato;

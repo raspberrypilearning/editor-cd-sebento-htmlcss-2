@@ -1,3 +1,74 @@
+<h2 class="c-project-heading--task">Style your id with CSS</h2>
+
+--- task ---
+Use an ID selector to style one specific element.
+--- /task ---
+
+--- task ---
+In `styles.css`, add a `#myCoolText` rule block.
+--- /task ---
+
+<div class="c-project-code">
+
+--- code ---
+---
+language: css
+filename: styles.css
+line_numbers: true
+line_number_start: 52
+line_highlights: 58, 59, 60, 61, 62, 63, 64, 65
+---
+    nav ul li a {
+      text-decoration: none;
+      color: indigo;
+  }
+
+#myCoolText { /* new: style only the paragraph with this id */
+  color: #003366;
+  border: 2px ridge #ccffff;
+  padding: 15px;
+  text-align: center;
+}
+
+img {
+  border-radius: 20px;
+}
+--- /code ---
+
+</div>
+
+<div class="c-project-output">
+<p>Your “bird conservation” paragraph should now have a border and centred text.</p>
+</div>
+
+--- task ---
+### Test
+Refresh `index.html` and confirm only that paragraph has the border styling.
+--- /task ---
+
+
+--- task ---
+
+Click **Run** to see the background colour change.
+
+--- /task ---
+
+
+<div class="c-project-output">
+
+![output screenshot](images/step2.png)
+
+</div>
+
+
+
+
+
+
+
+
+
+
 ## Animation
 
 Did you know you can use CSS to make things move around? You'll learn how on this card!

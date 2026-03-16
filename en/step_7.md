@@ -1,3 +1,69 @@
+
+START HERE
+
+
+<h2 class="c-project-heading--task">Add an id to a paragraph</h2>
+
+--- task ---
+Give one paragraph a unique `id` so you can style only that one element.
+--- /task ---
+
+--- task ---
+In `index.html`, add `id="myCoolText"` to the first paragraph.
+--- /task ---
+
+<div class="c-project-code">
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 18
+line_highlights: 23
+---
+	    <h1>Bird Conservation</h1>
+	    
+	    <p id="myCoolText"> <!-- new id -->
+	      This website is about bird conservation.
+	    </p>
+	    
+      <p>Explore the links above to learn more</p>
+--- /code ---
+
+</div>
+
+<div class="c-project-output">
+<p>You won’t see a change yet — the `id` is used by CSS.</p>
+</div>
+
+--- task ---
+### Test
+Refresh the home page and check the paragraph still appears normally.
+--- /task ---
+
+
+
+
+
+
+--- task ---
+
+Click **Run** to see the background colour change.
+
+--- /task ---
+
+
+<div class="c-project-output">
+
+![output screenshot](images/step2.png)
+
+</div>
+
+
+
+
+
 ## Automatically adjust the size
 
 Up until now you've been using **pixels** to set the size of things, e.g. `10px`. On this card you will learn about other measurements you can use.

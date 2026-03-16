@@ -1,3 +1,63 @@
+<h2 class="c-project-heading--task">Give the home page a unique id</h2>
+
+--- task ---
+Make the home page background different by adding an id to the `<body>`.
+--- /task ---
+
+--- task ---
+In `index.html`, add `id="frontPage"` to the `<body>` tag.
+--- /task ---
+
+<div class="c-project-code">
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 5
+line_highlights: 8
+---
+	</head>
+	<body id="frontPage"> <!-- new id for the home page -->
+	  <header>
+	    <nav>
+--- /code ---
+
+</div>
+
+<div class="c-project-output">
+<p>No change yet — you’ll add the gradient in CSS next.</p>
+</div>
+
+--- task ---
+### Test
+Refresh the home page and confirm it still loads normally.
+--- /task ---
+
+
+
+
+--- task ---
+
+Click **Run** to see the background colour change.
+
+--- /task ---
+
+
+<div class="c-project-output">
+
+![output screenshot](images/step2.png)
+
+</div>
+
+
+
+
+
+
+
+
 ## Add hover effects
 
 You can make your website more **interactive** by making cool stuff happen when you hover over things with the mouse cursor! 
