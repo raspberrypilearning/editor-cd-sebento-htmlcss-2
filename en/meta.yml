@@ -1,14 +1,34 @@
-title: Project title in sentence case
+---
+title: Bird watch website 2.0
 hero_image: images/banner.png
-description: A short description of the project
+description: Take your website design skills further!
+theme: navy
+duration: 2
 listed: false
-pdf: false
+ingredient: false
+copyedit: true
+curriculum: ''
+interests: ''
+technologies: html-css-javascript
+site_areas: coderdojo, projects
+hardware: ''
+software: html-css-javascript
+version: 3.0.0
+last_tested: '2018-04-06'
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+- title: Introduction
+- title: Getting set up
+- title: All the colours!
+- title: Organising your page
+  completion:
+  - engaged
+- title: Design some themes
+- title: Individual style
+- title: See the code on other websites!
+- title: Automatically adjust the size
+- title: Animation
+  completion:
+  - internal
+- title: Add hover effects
+  completion:
+  - external

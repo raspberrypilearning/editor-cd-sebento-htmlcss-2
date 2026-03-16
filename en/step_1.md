@@ -1,45 +1,49 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">STEP TITLE</h2>
 
-A brief description - one or two sentences. 
+--- task ---
 
---- print-only ---
+BRIEF SUMMARY OF STEP - one line
 
-![ALT TEXT](images/IMAGE.png)
+--- /task ---
+ Introduction
 
---- /print-only ---
+Build upon your existing HTML/CSS skills to make a website and gain more control over how it looks.
 
---- no-print ---
+### What you will make
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+Here is an example of how your website might look after completing these Sushi Cards:
 
---- /no-print ---
-
---- no-print ---
-
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/html/38c2a2638d?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
 </div>
 
---- /no-print ---
+--- collapse ---
+---
+title: What you will learn
+---
 
-### You will need:
-- a
-- b
-- c
+- How to create your own colours using code
+- Ways to organise content on your website so that you can apply styles, and to make it friendly for screen readers
+- How to use CSS styling to create themes as well as style individual elements
+- Controlling the size of elements with different kinds of measurements
+- Making things happen when you hover over elements on your page
+- Animating elements of your website with CSS
+- How to use the developer tools to sneak a peek at the code of any website, and to test out parts of yours
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: What you will need
+---
+
+### Hardware
+
++ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
+
+### Software
+
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+
+--- /collapse ---
