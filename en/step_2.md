@@ -39,7 +39,7 @@ line_number_start: 1
 line_highlights: 2
 ---
 body {
-  background-color: #7B68EE; 
+  background-color: #c1b6ff; 
     font-family: "Helvetica", sans-serif;
     color: purple;
 }

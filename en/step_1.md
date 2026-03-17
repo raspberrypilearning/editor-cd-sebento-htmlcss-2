@@ -10,7 +10,8 @@ Create a bird conservation website and level it up with cleaner structure, reusa
 </div>
 
 --- task ---
-### Get ready
-Open the starter project and click through the pages in the menu to see what’s already there.
+
+Click **Run** to try it out. You can click through the pages in the menu to see what’s already there.
+
 --- /task ---
 

@@ -1,40 +1,54 @@
-<h2 class="c-project-heading--task">Make an image resize with the window</h2>
+<h2 class="c-project-heading--task">Challenge: glowing links</h2>
 
 --- task ---
-Prepare an image so you can control its size in CSS instead of using `width="..."` in HTML.
+
+Create a “glowing link” style and apply it to links on your website.
+
 --- /task ---
 
 --- task ---
-In `index.html`, remove the `width` attribute from the barn owl image and give it `id="owly"`.
+
+Add `class="niceLinks"` to any link on your site. It will need to be a`<a>`
+
+--- /task ---
+
+
+--- task ---
+
+Add a `.niceLinks` class in `styles.css`, then add `class="niceLinks"` to one or more `` links in your HTML.
+
 --- /task ---
 
 <div class="c-project-code">
 
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: styles.css
 line_numbers: true
-line_number_start: 25
-line_highlights: 29
+line_number_start: 77
+line_highlights: 82, 83, 84, 85, 86, 87, 88, 89, 90
 ---
-      <p>Explore the links above to learn more</p>
-	    
-	    <img id="owly" src="barn-owl.jpg" alt="A barn owl" /> <!-- id added, width removed -->
-      <p>
-        Birds are in decline for lots of reasons.
+img:hover {
+  border: 2px dashed Navy;
+}
+
+.niceLinks { 
+  text-decoration: none;
+  color: #FFFAF0;
+}
+.niceLinks:hover { /* new: glow colour on hover */
+  color: #00FF7F;
+}
+
 --- /code ---
 
 </div>
 
 <div class="c-project-output">
-<p>The picture may change size slightly (depending on your CSS so far), but the big change is that CSS will control it next.</p>
+<p>Your links should change colour when you hover over them (after you add the class to your links in HTML).</p>
 </div>
 
---- task ---
-### Test
-Refresh the page and confirm the image still appears.
---- /task ---
 
 
 --- task ---
@@ -46,7 +60,7 @@ Click **Run** to see the background colour change.
 
 <div class="c-project-output">
 
-![output screenshot](images/step2.png)
+![output screenshot](images/step11.png)
 
 </div>
 

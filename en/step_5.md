@@ -1,64 +1,43 @@
-<h2 class="c-project-heading--task">Create a reusable style</h2>
+<h2 class="c-project-heading--task">Reusable the text box</h2>
 
 --- task ---
 
-Make extra CSS classes you can reuse to style different parts of your site.
-
---- /task ---
-
---- task ---
-
-Add `stylishBox` class to the `styles.css` file. 
-
---- /task ---
-
---- task ---
-
-Edit the code so that you have the look you want.
+Add the `stylishBox` class to other part of the website so they are styled too. Below it is added to the `<main>` of the `index.html` file.
 
 --- /task ---
 
 <div class="c-project-code">
-
 --- code ---
 ---
-language: css
-filename: styles.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 15
-line_highlights: 18-23
+line_number_start: 22
+line_highlights: 24
 ---
-  padding-bottom: 20px;
-}
+	<main class="stylishBox">
+		<section>
+			<h1>Bird Conservation</h1>
 
-.stylishBox { 
-  background-color: #87CEFA;
-  color: #A52A2A;
-  border-radius: 10px;
-  padding: 10px 10px;
-}
+			<p>
+				This website is about bird conservation.
+			</p>
 
-nav ul {
-    background-color: tomato;
+			<p>Explore the links above to learn more</p>
+		</section>
 
 --- /code ---
-
 </div>
-
 
 --- task ---
 
-Click **Run** to see the changes.
+Click **Run** to see the changes. Try adding to other parts of your site.
 
 --- /task ---
 
 
 <div class="c-project-output">
 
-![output screenshot](images/step5.png)
+![output screenshot](images/step6.png)
 
 </div>
-
-
-
-
