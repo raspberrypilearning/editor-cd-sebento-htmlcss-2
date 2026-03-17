@@ -69,6 +69,6 @@ Click **Run** to test. Move the output window and see the image change size.
 
 <div class="c-project-output">
 
-![output screenshot](images/step8.png)
+![output screenshot](images/step8.gif)
 
 </div>
