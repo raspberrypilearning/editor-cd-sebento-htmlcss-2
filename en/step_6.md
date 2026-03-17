@@ -2,9 +2,10 @@
 
 --- task ---
 
-Add `id="myCoolText"` to the first paragraph, and make a new style.
+Add the `id` below in the `index.html` file.
 
 --- /task ---
+
 
 <div class="c-project-callout c-project-callout--tip">
 
@@ -16,13 +17,6 @@ Add `id="myCoolText"` to the first paragraph, and make a new style.
 
 </div>
 
-
---- task ---
-
-Add the `id` below in the `index.html` file.
-
---- /task ---
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -32,15 +26,11 @@ line_numbers: true
 line_number_start: 22
 line_highlights: 24
 ---
-		<section>
 			<h1>Bird Conservation</h1>
 
-			 <p id="myCoolText">
+			<p id="myCoolText">
 				This website is about bird conservation.
 			</p>
-
-			<p>Explore the links above to learn more</p>
-		</section>
 --- /code ---
 </div>
 
@@ -57,8 +47,8 @@ In `styles.css`, add a `#myCoolText` block.
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 52
-line_highlights: 58
+line_number_start: 50
+line_highlights: 54
 ---
   border-color: #F5FFFA;
   border-radius: 10px;

@@ -18,17 +18,14 @@ First, in `index.html` remove the `width` attribute from the barn owl image and 
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 25
-line_highlights: 29
+line_number_start: 29
+line_highlights: 31
 ---
-			<p>Explore the links above to learn more</p>
 		</section>
 
 	<img id="owly" src="barn-owl.jpg" alt="A barn owl" /> 
 		
 		<section>
-			<p>Threats to birds:</p>
-			<ol>
 --- /code ---
 
 </div>
@@ -47,8 +44,8 @@ In `styles.css`, add a `#owly` rule that sets its width to `50%` and changes the
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 67
-line_highlights: 73, 74, 75, 76, 77, 78
+line_number_start: 61
+line_highlights: 67-70
 ---
 #frontPage {
   background: #48D1CC;

@@ -12,20 +12,13 @@ Add the `stylishBox` class to other part of the website so they are styled too. 
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 22
-line_highlights: 24
+line_number_start: 19
+line_highlights: 20
 ---
+	</header>
 	<main class="stylishBox">
 		<section>
 			<h1>Bird Conservation</h1>
-
-			<p>
-				This website is about bird conservation.
-			</p>
-
-			<p>Explore the links above to learn more</p>
-		</section>
-
 --- /code ---
 </div>
 

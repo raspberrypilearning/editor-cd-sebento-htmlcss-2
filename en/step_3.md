@@ -2,7 +2,14 @@
 
 --- task ---
 
-In `birds.html` Update the `<section>` tags to use `class="topDivider"`.
+Find the `birds.html` in the project files tab.
+
+--- /task ---
+
+
+--- task ---
+
+Update the `<section>` tags to use `class="topDivider"`.
 
 --- /task ---
 
@@ -14,12 +21,8 @@ language: html
 filename: birds.html
 line_numbers: true
 line_number_start: 27
-line_highlights: 31, 37
+line_highlights: 29, 35
 ---
-<main>
-      <h1>Birds of conservation concern in Ireland</h1>
-      <p>
-        There are a number of birds in Ireland whose numbers are in decline.
         Some of those with a high priority for conservation are:
       </p>
       <section class="topDivider">
@@ -32,12 +35,6 @@ line_highlights: 31, 37
       <section class="topDivider">
         <h2>Curlew</h2>
         <p>The curlew is recognisable by its long curved bill.
-        </p>
-        <img src="curlew.jpg" width="200px" />
-        <p>Curlews use their long bills to search for worms in mud or very soft ground.
-        </p>
-        <img src="curlew2.jpg" width="200px" />
-      </section>
 --- /code ---
 </div>
 
@@ -64,8 +61,8 @@ Edit the design of the border to make it look how you want it:
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 11
-line_highlights: 11-16
+line_number_start: 34
+line_highlights: 38-43
 ---
 img {
   border-radius: 20px;

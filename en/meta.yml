@@ -16,18 +16,20 @@ software: html-css-javascript
 version: 3.0.0
 last_tested: '2018-04-06'
 steps:
-- title: Introduction
-- title: All the colours!
-- title: Organising your page
+- title: Step 1
+- title: Step 2
+- title: Step 3
   completion:
   - engaged
-- title: Design some themes
-- title: Individual style
-- title: See the code on other websites!
-- title: Automatically adjust the size
-- title: Animation
+- title: Step 4
+- title: Step 5
+- title: Step 6
+- title: Step 7
+- title: Step 8
+- title: Step 9
+- title: Step 10
   completion:
   - internal
-- title: Add hover effects
+- title: Step 11
   completion:
   - external

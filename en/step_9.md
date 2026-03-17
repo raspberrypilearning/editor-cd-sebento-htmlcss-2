@@ -18,8 +18,8 @@ Update `#owly` so it animates, then add a `@keyframes` animation at the end of `
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 71
-line_highlights: 79
+line_number_start: 67
+line_highlights: 70-82
 ---
 #owly {
   width: 50%;
@@ -29,7 +29,6 @@ line_highlights: 79
   animation-iteration-count: 1;
 }
 
-...
 @keyframes myFirstAnimation { /* new animation */
   from {
     width: 100px;

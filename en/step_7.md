@@ -2,12 +2,6 @@
 
 --- task ---
 
-Make the home page background different by adding an id to the `<body>`.
-
---- /task ---
-
---- task ---
-
 In `index.html`, add `id="frontPage"` to the `<body>` tag.
 
 --- /task ---
@@ -19,10 +13,11 @@ In `index.html`, add `id="frontPage"` to the `<body>` tag.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 5
-line_highlights: 8
+line_number_start: 7
+line_highlights: 9
 ---
 	</head>
+
 	<body id="frontPage">
 	  <header>
 	    <nav>
@@ -30,6 +25,11 @@ line_highlights: 8
 
 </div>
 
+--- task ---
+
+Then add the block to the CSS.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -37,8 +37,8 @@ line_highlights: 8
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 25
-line_highlights: 29
+line_number_start: 54
+line_highlights: 61-64
 ---
 #myCoolText { 
   color: #003366;

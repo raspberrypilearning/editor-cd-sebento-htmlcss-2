@@ -15,7 +15,7 @@ Click on the `conservation.index` file.
 
 --- task ---
 
-Add the `stylishBox` class to all the sections. The first one is shown below.
+Add the `stylishBox` class to **all** the sections. The first one is shown below.
 
 --- /task ---
 
@@ -26,10 +26,9 @@ Add the `stylishBox` class to all the sections. The first one is shown below.
 language: html
 filename: conservation.html
 line_numbers: true
-line_number_start: 22
-line_highlights: 24
+line_number_start: 28
+line_highlights: 31
 ---
-      <p>
         Various kinds of work are carried out in Ireland in order to protect bird species.
       </p>
 
@@ -37,14 +36,6 @@ line_highlights: 24
         <h2>Research and monitoring</h2>
         <p>
           An essential part of bird conservation is monitoring and recording
-          information about the species such as their numbers, breeding habits, etc.
-
-        </p>
-        <p>
-          Scientific research may be carried out to determine whether a species is
-          in decline and how to address the problem.
-        </p>
-      </section>
 --- /code ---
 
 </div>
@@ -62,8 +53,8 @@ Add CSS code so that you have the look you want.
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 15
-line_highlights: 18-23
+line_number_start: 41
+line_highlights: 45-52
 ---
   border-top-color: #9999ff;
   padding-bottom: 20px;
@@ -84,7 +75,7 @@ line_highlights: 18-23
 
 --- task ---
 
-Click **Run** to see the changes. Experiment with the colours, `border-radius` and `padding` until you get the look you want.
+Click **Run** to see the changes. Experiment with the colours, `border-radius` until you get the look you want.
 
 --- /task ---
 
