@@ -48,7 +48,7 @@ language: css
 filename: styles.css
 line_numbers: true
 line_number_start: 50
-line_highlights: 54
+line_highlights: 54-59
 ---
   border-color: #F5FFFA;
   border-radius: 10px;
@@ -72,6 +72,6 @@ Click **Run** to see the paragraph has a new style.
 
 <div class="c-project-output">
 
-![output screenshot](images/step2.png)
+![output screenshot](images/step6.png)
 
 </div>

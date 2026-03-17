@@ -21,7 +21,7 @@ language: html
 filename: birds.html
 line_numbers: true
 line_number_start: 27
-line_highlights: 29, 35
+line_highlights: 29, 36
 ---
 Some of those with a high priority for conservation are:
 </p>

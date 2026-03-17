@@ -20,7 +20,7 @@ language: css
 filename: styles.css
 line_numbers: true
 line_number_start: 34
-line_highlights: 84, 86, 87, 88, 89, 90
+line_highlights: 39-41
 ---
 img {
   border-radius: 20px;

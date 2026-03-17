@@ -82,6 +82,6 @@ Click **Run** to see the changes. Experiment with the colours, `border-radius` u
 
 <div class="c-project-output">
 
-![output screenshot](images/step5.png)
+![output screenshot](images/step4.png)
 
 </div>

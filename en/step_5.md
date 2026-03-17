@@ -31,6 +31,6 @@ Click **Run** to see the changes. Try adding to other parts of your site.
 
 <div class="c-project-output">
 
-![output screenshot](images/step6.png)
+![output screenshot](images/step5.png)
 
 </div>

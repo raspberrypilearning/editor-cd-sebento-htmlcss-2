@@ -45,7 +45,7 @@ language: css
 filename: styles.css
 line_numbers: true
 line_number_start: 61
-line_highlights: 67-70
+line_highlights: 66-70
 ---
 #frontPage {
   background: #48D1CC;
