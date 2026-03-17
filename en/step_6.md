@@ -26,11 +26,11 @@ line_numbers: true
 line_number_start: 22
 line_highlights: 24
 ---
-			<h1>Bird Conservation</h1>
+<h1>Bird Conservation</h1>
 
-			<p id="myCoolText">
-				This website is about bird conservation.
-			</p>
+	<p id="myCoolText">
+		This website is about bird conservation.
+	</p>
 --- /code ---
 </div>
 

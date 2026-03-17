@@ -16,11 +16,11 @@ line_numbers: true
 line_number_start: 7
 line_highlights: 9
 ---
-	</head>
+</head>
 
-	<body id="frontPage">
-	  <header>
-	    <nav>
+<body id="frontPage">
+	<header>
+	  <nav>
 --- /code ---
 
 </div>

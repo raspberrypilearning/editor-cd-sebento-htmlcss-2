@@ -23,18 +23,17 @@ line_numbers: true
 line_number_start: 27
 line_highlights: 29, 35
 ---
-        Some of those with a high priority for conservation are:
-      </p>
-      <section class="topDivider">
-        <h2>Barn Owl</h2>
-        <p>The barn owl is the most common owl and is found in most parts of the world.
-          It has seen a huge decline in Ireland and Europe in recent years.</p>
-        <img src="barn-owl-landing.jpg" alt="Barn owl landing on a branch" height="200px" />
-      </section>
+Some of those with a high priority for conservation are:
+</p>
+<section class="topDivider">
+<h2>Barn Owl</h2>
+<p>The barn owl is the most common owl and is found in most parts of the world.
+It has seen a huge decline in Ireland and Europe in recent years.</p>
+<img src="barn-owl-landing.jpg" alt="Barn owl landing on a branch" height="200px" />
+</section>
       
-      <section class="topDivider">
-        <h2>Curlew</h2>
-        <p>The curlew is recognisable by its long curved bill.
+<section class="topDivider">
+<h2>Curlew</h2>
 --- /code ---
 </div>
 

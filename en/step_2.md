@@ -40,8 +40,8 @@ line_highlights: 2
 ---
 body {
   background-color: #c1b6ff; 
-    font-family: "Helvetica", sans-serif;
-    color: purple;
+  font-family: "Helvetica", sans-serif;
+  color: purple;
 }
 --- /code ---
 

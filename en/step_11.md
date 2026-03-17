@@ -22,11 +22,11 @@ line_numbers: true
 line_number_start: 13
 line_highlights: 14-16
 ---
-				<li>Home</li>
-				<li><a class="niceLinks" href="birds.html">Protected Birds</a></li>
-				<li><a class="niceLinks" href="conservation.html">Conservation</a></li>
-				<li><a class="niceLinks" href="sanctuaries.html">Bird Sanctuaries</a></li>
-			</ul>
+<li>Home</li>
+<li><a class="niceLinks" href="birds.html">Protected Birds</a></li>
+<li><a class="niceLinks" href="conservation.html">Conservation</a></li>
+<li><a class="niceLinks" href="sanctuaries.html">Bird Sanctuaries</a></li>
+</ul>
 --- /code ---
 </div>
 
@@ -71,7 +71,7 @@ Click **Run** to see your links should change colour when you hover over them.
 
 <div class="c-project-output">
 
-![output screenshot](images/step11.png)
+![output screenshot](images/step11.gif)
 
 </div>
 

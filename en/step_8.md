@@ -21,11 +21,11 @@ line_numbers: true
 line_number_start: 29
 line_highlights: 31
 ---
-		</section>
+</section>
 
-	<img id="owly" src="barn-owl.jpg" alt="A barn owl" /> 
+<img id="owly" src="barn-owl.jpg" alt="A barn owl" /> 
 		
-		<section>
+<section>
 --- /code ---
 
 </div>
