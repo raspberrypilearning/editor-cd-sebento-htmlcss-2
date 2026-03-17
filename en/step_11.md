@@ -8,7 +8,7 @@ Create a “glowing link” style and apply it to links on your website.
 
 --- task ---
 
-Add `class="niceLinks"` to any link on your site. It will need to be in the `<a>`
+Add `class="niceLinks"` to any link on your site. It will need to be inside `<a>`. Below shows the class added to `index.html`.
 
 --- /task ---
 
@@ -19,17 +19,16 @@ Add `class="niceLinks"` to any link on your site. It will need to be in the `<a>
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 77
-line_highlights: 82
+line_number_start: 13
+line_highlights: 14-16
 ---
-	<ul>
 				<li>Home</li>
 				<li><a class="niceLinks" href="birds.html">Protected Birds</a></li>
 				<li><a class="niceLinks" href="conservation.html">Conservation</a></li>
 				<li><a class="niceLinks" href="sanctuaries.html">Bird Sanctuaries</a></li>
 			</ul>
-
 --- /code ---
+</div>
 
 --- task ---
 
@@ -44,11 +43,12 @@ Add a `.niceLinks` class in `styles.css`.
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 77
-line_highlights: 82
+line_number_start: 83
+line_highlights: 88-95
 ---
-img:hover {
-  border: 2px dashed Navy;
+  to {
+    width: 300px;
+  }
 }
 
 .niceLinks { 

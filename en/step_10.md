@@ -19,30 +19,25 @@ Add a border to all images, then add an `img:hover` rule to change the border st
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 80
+line_number_start: 34
 line_highlights: 84, 86, 87, 88, 89, 90
 ---
-  color: indigo;
-}
-
 img {
   border-radius: 20px;
   border: 2px solid White; 
 }
 
 img:hover { 
-  border: 2px dashed Navy;
+  border: 6px dashed Navy;
 }
 
 .topDivider { 
-  border-top-style: dotted;
-
 --- /code ---
 </div>
 
 --- task ---
 
-Click **Run** and move your cursor over an image. The border should switch from solid to dashed
+Click **Run** and move your cursor over an image. The border should switch to dashed.
 
 --- /task ---
 

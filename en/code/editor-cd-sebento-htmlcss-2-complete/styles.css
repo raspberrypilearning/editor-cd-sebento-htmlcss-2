@@ -93,6 +93,7 @@ img {
   width: 100px;
   border-radius: 100%;
 }
+
 #owly:hover {
   
   animation-name: rollOver;
