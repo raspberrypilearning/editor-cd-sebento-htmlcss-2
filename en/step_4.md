@@ -29,13 +29,13 @@ line_numbers: true
 line_number_start: 28
 line_highlights: 31
 ---
-Various kinds of work are carried out in Ireland in order to protect bird species.
-</p>
+        Various kinds of work are carried out in Ireland in order to protect bird species.
+      </p>
 
-<section class="stylishBox">
-<h2>Research and monitoring</h2>
-<p>
-An essential part of bird conservation is monitoring and recording
+      <section class="stylishBox">
+        <h2>Research and monitoring</h2>
+        <p>
+          An essential part of bird conservation is monitoring and recording
 --- /code ---
 
 </div>

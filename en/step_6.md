@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add the `id` below in the `index.html` file.
+Add the `id` in the `index.html` file.
 
 --- /task ---
 
@@ -11,9 +11,10 @@ Add the `id` below in the `index.html` file.
 
 ### Tip
 
-- An ID (#) is used for one specific element.
-- It should only be used once on a page.
-- It lets you target that exact element in CSS.
+- An ID is used to identify one specific element on a page.
+- In HTML, it is written as id="name".
+- In CSS, you target it with #name.
+- Each ID value should be unique within the page.
 
 </div>
 
@@ -26,17 +27,17 @@ line_numbers: true
 line_number_start: 22
 line_highlights: 24
 ---
-<h1>Bird Conservation</h1>
+			<h1>Bird Conservation</h1>
 
-	<p id="myCoolText">
-		This website is about bird conservation.
-	</p>
+			<p id="myCoolText">
+				This website is about bird conservation.
+			</p>
 --- /code ---
 </div>
 
 --- task ---
 
-In `styles.css`, add a `#myCoolText` block.
+In `styles.css`, add a `#myCoolText` selector.
 
 --- /task ---
 

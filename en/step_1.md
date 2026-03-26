@@ -1,7 +1,9 @@
 <h2 class="c-project-heading--task">You will make</h2>
 
 --- task ---
+
 Create a bird conservation website and level it up with cleaner structure, reusable styles, and interactive effects.
+
 --- /task ---
 
 <div class="c-project-output">
@@ -11,7 +13,7 @@ Create a bird conservation website and level it up with cleaner structure, reusa
 
 --- task ---
 
-Click **Run** to try it out. You can click through the pages in the menu to see what’s already there.
+**Test** it out. You can click through the pages in the menu to see what’s already there.
 
 --- /task ---
 

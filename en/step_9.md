@@ -18,8 +18,8 @@ Update `#owly` so it animates, then add a `@keyframes` animation at the end of `
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 67
-line_highlights: 70-82
+line_number_start: 66
+line_highlights: 69-82
 ---
 #owly {
   width: 50%;

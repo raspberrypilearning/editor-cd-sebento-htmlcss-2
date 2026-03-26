@@ -23,24 +23,24 @@ line_numbers: true
 line_number_start: 27
 line_highlights: 29, 36
 ---
-Some of those with a high priority for conservation are:
-</p>
-<section class="topDivider">
-<h2>Barn Owl</h2>
-<p>The barn owl is the most common owl and is found in most parts of the world.
-It has seen a huge decline in Ireland and Europe in recent years.</p>
-<img src="barn-owl-landing.jpg" alt="Barn owl landing on a branch" height="200px" />
-</section>
-      
-<section class="topDivider">
-<h2>Curlew</h2>
+        Some of those with a high priority for conservation are:
+      </p>
+      <section class="topDivider">
+        <h2>Barn Owl</h2>
+        <p>The barn owl is the most common owl and is found in most parts of the world.
+          It has seen a huge decline in Ireland and Europe in recent years.</p>
+        <img src="barn-owl-landing.jpg" alt="Barn owl landing on a branch" height="200px" />
+      </section>
+
+      <section class="topDivider">
+        <h2>Curlew</h2>
 --- /code ---
 </div>
 
 
 --- task ---
 
-Click on the `style.css` tab add a `topDivider` class. 
+Click on the `styles.css` tab add a `topDivider` class. 
 
 --- /task ---
 

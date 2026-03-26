@@ -15,10 +15,10 @@ line_numbers: true
 line_number_start: 19
 line_highlights: 20
 ---
-</header>
-<main class="stylishBox">
-	<section>
-		<h1>Bird Conservation</h1>
+	</header>
+    <main class="stylishBox">
+		<section>
+			<h1>Bird Conservation</h1>
 --- /code ---
 </div>
 

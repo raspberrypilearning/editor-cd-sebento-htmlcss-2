@@ -20,7 +20,7 @@ line_highlights: 9
 
 <body id="frontPage">
 	<header>
-	  <nav>
+		<nav>
 --- /code ---
 
 </div>
