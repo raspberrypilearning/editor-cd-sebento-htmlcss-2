@@ -20,11 +20,10 @@ language: css
 filename: styles.css
 line_numbers: true
 line_number_start: 34
-line_highlights: 39-41
+line_highlights: 38-40
 ---
 img {
   border-radius: 20px;
-  border: 2px solid White; 
 }
 
 img:hover { 

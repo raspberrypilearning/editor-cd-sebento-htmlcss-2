@@ -14,7 +14,6 @@ filename: styles.css
 line_numbers: false
 ---
 #owly:hover {
-  
   animation-name: rollOver;
   animation-duration: 1s;
   animation-iteration-count: 1;
@@ -52,6 +51,7 @@ line_numbers: false
   text-align: center;animation-name: rainbowGlow;
   animation-duration: 1.5s;
   animation-iteration-count: 1;
+  animation-iteration-count: infinite;
   }
 
 @keyframes rainbowGlow {
