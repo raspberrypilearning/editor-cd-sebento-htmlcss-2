@@ -1,40 +1,9 @@
-<h2 class="c-project-heading--task">Challenge: glowing links</h2>
+<h2 class="c-project-heading--task">More challenges</h2>
 
---- task ---
+### Step 1
 
-Create a “glowing link” style and apply it to links on your website.
+Add more animations to make the `#owly` image roll around.
 
---- /task ---
-
---- task ---
-
-Add `class="niceLinks"` to any link on your site. It will need to be inside `<a>`. Below shows the class added to `index.html`.
-
---- /task ---
-
-<div class="c-project-code">
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 13
-line_highlights: 14-16
----
-    <li>Home</li>
-        <li><a class="niceLinks" href="birds.html">Protected Birds</a></li>
-        <li><a class="niceLinks" href="conservation.html">Conservation</a></li>
-        <li><a class="niceLinks" href="sanctuaries.html">Bird Sanctuaries</a></li>
-    </ul>
---- /code ---
-</div>
-
---- task ---
-
-Add a `.niceLinks` class in `styles.css`.
-
---- /task ---
 
 <div class="c-project-code">
 
@@ -42,36 +11,59 @@ Add a `.niceLinks` class in `styles.css`.
 ---
 language: css
 filename: styles.css
-line_numbers: true
-line_number_start: 83
-line_highlights: 88-95
+line_numbers: false
 ---
-  to {
-    width: 300px;
+#owly:hover {
+  animation-name: rollOver;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+}
+
+@keyframes rollOver {
+  0% {
+    transform: rotate(0deg);
   }
-}
-
-.niceLinks { 
-  text-decoration: none;
-  color: #FFFAF0;
-}
-
-.niceLinks:hover { 
-  color: #00FF7F;
+  100% {
+    transform: rotate(-360deg);
+  }
 }
 --- /code ---
 </div>
 
---- task ---
-
-Click **Run** to see your links should change colour when you hover over them.
-
---- /task ---
 
 
-<div class="c-project-output">
+### Step 2
 
-![output screenshot](images/step11.gif)
+Try adding some `rainbowGlow` animations to your `myCoolText`.
 
+<div class="c-project-code">
+
+--- code ---
+---
+language: css
+filename: styles.css
+line_numbers: false
+---
+#myCoolText {
+  color: #003366;
+  border: 2px ridge #ccffff;padding: 15px;
+  text-align: center;animation-name: rainbowGlow;
+  animation-duration: 1.5s;
+  animation-iteration-count: 1;
+  animation-iteration-count: infinite;
+  }
+
+@keyframes rainbowGlow {
+  0% {
+    color: #FFD700;
+    }
+  50% {
+    color: #663399;
+    }
+  100% {
+    color: #FFD700;
+    }
+  }
+
+--- /code ---
 </div>
-

@@ -1,56 +1,45 @@
-<h2 class="c-project-heading--task">Animate parts of your site</h2>
+<h2 class="c-project-heading--task">Add hover effects</h2>
 
---- task ---
+### Step 1
 
-Create a CSS animation and apply it to an element.
+Make the website feel interactive by changing styles when the mouse hovers over an element.
 
---- /task ---
 
---- task ---
+### Step 2
 
-Update `#owly` so it animates, then add a `@keyframes` animation at the end of `styles.css`.
+Add a border to all images, then add an `img:hover` rule to change the border style.
 
---- /task ---
 
 <div class="c-project-code">
+
 --- code ---
 ---
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 66
-line_highlights: 69-82
+line_number_start: 34
+line_highlights: 38-40
 ---
-#owly {
-  width: 50%;
-  border-radius: 100%;
-  animation-name: myFirstAnimation;
-  animation-duration: 2s;
-  animation-iteration-count: 1;
+img {
+  border-radius: 20px;
 }
 
-@keyframes myFirstAnimation { /* new animation */
-  from {
-    width: 100px;
-  }
-  to {
-    width: 300px;
-  }
+img:hover { 
+  border: 6px dashed Navy;
 }
+
+.topDivider { 
 --- /code ---
-
 </div>
 
---- task ---
+### Step 3
 
-Click **Run**, the image should grow from 100px to 300px.
+Click **Run** and move your cursor over an image. The border should switch to dashed.
 
---- /task ---
 
 
 <div class="c-project-output">
 
-![output screenshot](images/step9.gif)
+![output screenshot](images/step10.gif)
 
 </div>
-

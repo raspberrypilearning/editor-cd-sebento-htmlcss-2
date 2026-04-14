@@ -15,22 +15,23 @@ hardware: ''
 software: html-css-javascript
 version: 3.0.0
 last_tested: '2018-04-06'
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-- title: Step 3
-  completion:
-  - engaged
-- title: Step 4
-- title: Step 5
-- title: Step 6
-- title: Step 7
-- title: Step 8
-- title: Step 9
-- title: Step 10
-- title: Step 11
-  completion:
-  - internal
-- title: Step 12
-  completion:
-  - external
+  - title: Choose colours with hex codes
+  - title: Use CSS on sections
+    completion:
+      - engaged
+  - title: Create a reusable text box
+  - title: Reusable the text box
+  - title: Style paragraph text
+  - title: Give the home page a unique id
+  - title: Style the image
+  - title: Animate parts of your site
+  - title: Add hover effects
+    completion:
+      - internal
+  - title: "Challenge: glowing links"
+    completion:
+      - external
+  - title: More challenges
+    challenge: true

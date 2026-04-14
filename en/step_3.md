@@ -1,57 +1,46 @@
-<h2 class="c-project-heading--task">Use CSS on sections</h2>
+<h2 class="c-project-heading--task">Create a reusable text box</h2>
 
---- task ---
+### Step 1
 
-Find the `birds.html` in the project files tab.
-
---- /task ---
+Make a class that you can reuse to style text boxes in your site.
 
 
---- task ---
+### Step 2
 
-Update the `<section>` tags to use `class="topDivider"`.
+Click on the `conservation.index` file.
 
---- /task ---
+
+
+### Step 3
+
+Add the `stylishBox` class to **all** the sections. The first one is shown below.
+
+
 
 <div class="c-project-code">
-
 --- code ---
 ---
 language: html
-filename: birds.html
+filename: conservation.html
 line_numbers: true
-line_number_start: 27
-line_highlights: 29, 36
+line_number_start: 28
+line_highlights: 31
 ---
-        Some of those with a high priority for conservation are:
+        Various kinds of work are carried out in Ireland in order to protect bird species.
       </p>
-      <section class="topDivider">
-        <h2>Barn Owl</h2>
-        <p>The barn owl is the most common owl and is found in most parts of the world.
-          It has seen a huge decline in Ireland and Europe in recent years.</p>
-        <img src="barn-owl-landing.jpg" alt="Barn owl landing on a branch" height="200px" />
-      </section>
 
-      <section class="topDivider">
-        <h2>Curlew</h2>
+      <section class="stylishBox">
+        <h2>Research and monitoring</h2>
+        <p>
+          An essential part of bird conservation is monitoring and recording
 --- /code ---
+
 </div>
 
+### Step 4
 
---- task ---
+Add CSS code so that you have the look you want.
 
-Click on the `styles.css` tab add a `topDivider` class. 
-
---- /task ---
-
---- task ---
-
-Edit the design of the border to make it look how you want it:
-- make it `dotted` or `dashed`
-- change the colour and width
-- add more or less padding
-
---- /task ---
 
 <div class="c-project-code">
 
@@ -60,31 +49,34 @@ Edit the design of the border to make it look how you want it:
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 34
-line_highlights: 38-43
+line_number_start: 41
+line_highlights: 45-52
 ---
-img {
-  border-radius: 20px;
-}
-
-.topDivider { 
-  border-top-style: dotted;
-  border-top-width: 4px;
   border-top-color: #9999ff;
   padding-bottom: 20px;
 }
+
+.stylishBox {
+  background-color: #87CEFA;
+  color: #A52A2A;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F5FFFA;
+  border-radius: 10px;
+}
 --- /code ---
+
 </div>
 
---- task ---
 
-Click **Run** to see your changes.
+### Step 5
 
---- /task ---
+Click **Run** to see the changes. Experiment with the colours, `border-radius` until you get the look you want.
+
 
 
 <div class="c-project-output">
 
-![output screenshot](images/step3.png)
+![output screenshot](images/step4.png)
 
 </div>

@@ -1,78 +1,65 @@
-<h2 class="c-project-heading--task">Style paragraph text</h2>
+<h2 class="c-project-heading--task">Give the home page a unique id</h2>
 
---- task ---
+### Step 1
 
-Add the `id` in the `index.html` file.
+In `index.html`, add `id="frontPage"` to the `<body>` tag.
 
---- /task ---
-
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-- An ID is used to identify one specific element on a page.
-- In HTML, it is written as id="name".
-- In CSS, you target it with #name.
-- Each ID value should be unique within the page.
-
-</div>
 
 <div class="c-project-code">
+
 --- code ---
 ---
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 22
-line_highlights: 24
+line_number_start: 7
+line_highlights: 9
 ---
-			<h1>Bird Conservation</h1>
+</head>
 
-			<p id="myCoolText">
-				This website is about bird conservation.
-			</p>
+<body id="frontPage">
+	<header>
+		<nav>
 --- /code ---
+
 </div>
 
---- task ---
+### Step 2
 
-In `styles.css`, add a `#myCoolText` selector.
+Then add the block to the CSS.
 
---- /task ---
 
 <div class="c-project-code">
-
 --- code ---
 ---
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 50
-line_highlights: 54-59
+line_number_start: 54
+line_highlights: 61-64
 ---
-  border-color: #F5FFFA;
-  border-radius: 10px;
-}
-
 #myCoolText { 
   color: #003366;
   border: 2px ridge #ccffff;
   padding: 15px;
   text-align: center;
 }
+
+#frontPage {
+  background: #48D1CC;
+  background: linear-gradient(#fea3aa, #f8b88b, #faf884, #baed91, #baed91, #b2cefe, #f2a2e8, #fea3aa);
+}
 --- /code ---
 </div>
 
---- task ---
+### Step 3
 
-Click **Run** to see the paragraph has a new style.
+Click **Run** to see the background colour change on the front page.
 
---- /task ---
 
 
 <div class="c-project-output">
 
-![output screenshot](images/step6.png)
+![output screenshot](images/step7.png)
 
 </div>

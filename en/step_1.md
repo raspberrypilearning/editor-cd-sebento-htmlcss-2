@@ -1,19 +1,57 @@
-<h2 class="c-project-heading--task">You will make</h2>
+<h2 class="c-project-heading--task">Choose colours with hex codes</h2>
 
---- task ---
+### Step 1
 
-Create a bird conservation website and level it up with cleaner structure, reusable styles, and interactive effects.
+Use a hex colour code to change the website background colour.
 
---- /task ---
 
-<div class="c-project-output">
-  <iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-cd-sebento-htmlcss-2-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
+### Step 2
+
+Click on the **Project files** tab ad open `styles.css`.
+
+
+### Step 3
+
+Replace the `background-colour` with a hex code.
+
+
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+Try out [this colour picker](http://dojo.soy/se-html2-picker){:target="_blank"} to choose some hex colour codes to use.
+
 </div>
 
---- task ---
 
-**Test** it out. You can click through the pages in the menu to see what’s already there.
+<div class="c-project-code">
 
---- /task ---
+--- code ---
+---
+language: css
+filename: styles.css
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+body {
+  background-color: #c1b6ff; 
+  font-family: "Helvetica", sans-serif;
+  color: purple;
+}
+--- /code ---
 
+</div>
+
+### Step 4
+
+Click **Run** to see the background colour change.
+
+
+
+<div class="c-project-output">
+
+![output screenshot](images/step2.png)
+
+</div>

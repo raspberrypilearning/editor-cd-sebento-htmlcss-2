@@ -1,74 +1,52 @@
-<h2 class="c-project-heading--task">Style the image</h2>
+<h2 class="c-project-heading--task">Animate parts of your site</h2>
 
---- task ---
+### Step 1
 
-Change the front page image with css.
+Create a CSS animation and apply it to an element.
 
---- /task ---
 
---- task ---
+### Step 2
 
-First, in `index.html` remove the `width` attribute from the barn owl image and give it `id="owly"`.
---- /task ---
+Update `#owly` so it animates, then add a `@keyframes` animation at the end of `styles.css`.
+
 
 <div class="c-project-code">
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 29
-line_highlights: 31
----
-		</section>
-
-		<img id="owly"  src="barn-owl.jpg" alt="A barn owl" width="200px" />
-		
-		<section>
---- /code ---
-
-</div>
-
-
---- task ---
-
-In `styles.css`, add a `#owly` rule that sets its width to `50%` and changes the `border-radius` so it is a round shape.
-
---- /task ---
-
-<div class="c-project-code">
-
 --- code ---
 ---
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 61
-line_highlights: 66-70
+line_number_start: 66
+line_highlights: 69-82
 ---
-#frontPage {
-  background: #48D1CC;
-  background: linear-gradient(#fea3aa, #f8b88b, #faf884, #baed91, #baed91, #b2cefe, #f2a2e8, #fea3aa);
-}
-
-#owly { 
+#owly {
   width: 50%;
   border-radius: 100%;
+  animation-name: myFirstAnimation;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+
+@keyframes myFirstAnimation { /* new animation */
+  from {
+    width: 100px;
+  }
+  to {
+    width: 300px;
+  }
 }
 --- /code ---
 
 </div>
 
---- task ---
+### Step 3
 
-Click **Run** to test. Move the output window and see the image change size.
+Click **Run**, the image should grow from 100px to 300px.
 
---- /task ---
 
 
 <div class="c-project-output">
 
-![output screenshot](images/step8.gif)
+![output screenshot](images/step9.gif)
 
 </div>

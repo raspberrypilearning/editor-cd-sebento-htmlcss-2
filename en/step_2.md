@@ -1,31 +1,52 @@
-<h2 class="c-project-heading--task">Choose colours with hex codes</h2>
+<h2 class="c-project-heading--task">Use CSS on sections</h2>
 
---- task ---
+### Step 1
 
-Use a hex colour code to change the website background colour.
-
---- /task ---
-
---- task ---
-
-Click on the **Project files** tab ad open `styles.css`.
-
---- /task ---
-
---- task ---
-
-Replace the `background-colour` with a hex code.
-
---- /task ---
+Find the `birds.html` in the project files tab.
 
 
-<div class="c-project-callout c-project-callout--tip">
 
-### Tip
+### Step 2
 
-Try out [this colour picker](http://dojo.soy/se-html2-picker){:target="_blank"} to choose some hex colour codes to use.
+Update the `<section>` tags to use `class="topDivider"`.
 
+
+<div class="c-project-code">
+
+--- code ---
+---
+language: html
+filename: birds.html
+line_numbers: true
+line_number_start: 27
+line_highlights: 29, 36
+---
+        Some of those with a high priority for conservation are:
+      </p>
+      <section class="topDivider">
+        <h2>Barn Owl</h2>
+        <p>The barn owl is the most common owl and is found in most parts of the world.
+          It has seen a huge decline in Ireland and Europe in recent years.</p>
+        <img src="barn-owl-landing.jpg" alt="Barn owl landing on a branch" height="200px" />
+      </section>
+
+      <section class="topDivider">
+        <h2>Curlew</h2>
+--- /code ---
 </div>
+
+
+### Step 3
+
+Click on the `styles.css` tab add a `topDivider` class. 
+
+
+### Step 4
+
+Edit the design of the border to make it look how you want it:
+- make it `dotted` or `dashed`
+- change the colour and width
+- add more or less padding
 
 
 <div class="c-project-code">
@@ -35,31 +56,30 @@ Try out [this colour picker](http://dojo.soy/se-html2-picker){:target="_blank"} 
 language: css
 filename: styles.css
 line_numbers: true
-line_number_start: 1
-line_highlights: 2
+line_number_start: 34
+line_highlights: 38-43
 ---
-body {
-  background-color: #c1b6ff; 
-  font-family: "Helvetica", sans-serif;
-  color: purple;
+img {
+  border-radius: 20px;
+}
+
+.topDivider { 
+  border-top-style: dotted;
+  border-top-width: 4px;
+  border-top-color: #9999ff;
+  padding-bottom: 20px;
 }
 --- /code ---
-
 </div>
 
---- task ---
+### Step 5
 
-Click **Run** to see the background colour change.
+Click **Run** to see your changes.
 
---- /task ---
 
 
 <div class="c-project-output">
 
-![output screenshot](images/step2.png)
+![output screenshot](images/step3.png)
 
 </div>
-
-
-
-
