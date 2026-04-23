@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Add hover effects</h2>
 
-### Step 1
-
 Make the website feel interactive by changing styles when the mouse hovers over an element.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Add a border to all images, then add an `img:hover` rule to change the border style.
 
@@ -32,7 +31,7 @@ img:hover {
 --- /code ---
 </div>
 
-### Step 3
+## Step 2
 
 Click **Run** and move your cursor over an image. The border should switch to dashed.
 
@@ -43,3 +42,7 @@ Click **Run** and move your cursor over an image. The border should switch to da
 ![output screenshot](images/step10.gif)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

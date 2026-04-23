@@ -1,24 +1,22 @@
 <h2 class="c-project-heading--task">Choose colours with hex codes</h2>
 
-### Step 1
-
 Use a hex colour code to change the website background colour.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Click on the **Project files** tab ad open `styles.css`.
 
-
-### Step 3
+## Step 2
 
 Replace the `background-colour` with a hex code.
 
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Try out [this colour picker](http://dojo.soy/se-html2-picker){:target="_blank"} to choose some hex colour codes to use.
 
@@ -44,7 +42,7 @@ body {
 
 </div>
 
-### Step 4
+## Step 3
 
 Click **Run** to see the background colour change.
 
@@ -55,3 +53,7 @@ Click **Run** to see the background colour change.
 ![output screenshot](images/step2.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

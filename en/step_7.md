@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Style the image</h2>
 
-### Step 1
-
 Change the front page image with css.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 First, in `index.html` remove the `width` attribute from the barn owl image and give it `id="owly"`.
 
@@ -28,8 +27,7 @@ line_highlights: 31
 
 </div>
 
-
-### Step 3
+## Step 2
 
 In `styles.css`, add a `#owly` rule that sets its width to `50%` and changes the `border-radius` so it is a round shape.
 
@@ -57,7 +55,7 @@ line_highlights: 66-70
 
 </div>
 
-### Step 4
+## Step 3
 
 Click **Run** to test. Move the output window and see the image change size.
 
@@ -68,3 +66,7 @@ Click **Run** to test. Move the output window and see the image change size.
 ![output screenshot](images/step8.gif)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,12 +1,10 @@
 <h2 class="c-project-heading--task">Use CSS on sections</h2>
 
-### Step 1
-
 Find the `birds.html` in the project files tab.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-### Step 2
+## Step 1
 
 Update the `<section>` tags to use `class="topDivider"`.
 
@@ -35,13 +33,11 @@ line_highlights: 29, 36
 --- /code ---
 </div>
 
+## Step 2
 
-### Step 3
+Click on the `styles.css` tab add a `topDivider` class.
 
-Click on the `styles.css` tab add a `topDivider` class. 
-
-
-### Step 4
+## Step 3
 
 Edit the design of the border to make it look how you want it:
 - make it `dotted` or `dashed`
@@ -72,7 +68,7 @@ img {
 --- /code ---
 </div>
 
-### Step 5
+## Step 4
 
 Click **Run** to see your changes.
 
@@ -83,3 +79,7 @@ Click **Run** to see your changes.
 ![output screenshot](images/step3.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

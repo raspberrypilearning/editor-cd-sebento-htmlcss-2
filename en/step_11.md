@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">More challenges</h2>
 
-### Step 1
-
 Add more animations to make the `#owly` image roll around.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 
@@ -30,9 +31,7 @@ line_numbers: false
 --- /code ---
 </div>
 
-
-
-### Step 2
+## Step 2
 
 Try adding some `rainbowGlow` animations to your `myCoolText`.
 
@@ -67,3 +66,7 @@ line_numbers: false
 
 --- /code ---
 </div>
+
+## Now run your code
+
+Confirm the observable result.

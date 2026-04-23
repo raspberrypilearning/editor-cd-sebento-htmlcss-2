@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">Give the home page a unique id</h2>
 
-### Step 1
-
 In `index.html`, add `id="frontPage"` to the `<body>` tag.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 
@@ -24,7 +25,7 @@ line_highlights: 9
 
 </div>
 
-### Step 2
+## Step 2
 
 Then add the block to the CSS.
 
@@ -52,7 +53,7 @@ line_highlights: 61-64
 --- /code ---
 </div>
 
-### Step 3
+## Step 3
 
 Click **Run** to see the background colour change on the front page.
 
@@ -63,3 +64,7 @@ Click **Run** to see the background colour change on the front page.
 ![output screenshot](images/step7.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Animate parts of your site</h2>
 
-### Step 1
-
 Create a CSS animation and apply it to an element.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Update `#owly` so it animates, then add a `@keyframes` animation at the end of `styles.css`.
 
@@ -39,7 +38,7 @@ line_highlights: 69-82
 
 </div>
 
-### Step 3
+## Step 2
 
 Click **Run**, the image should grow from 100px to 300px.
 
@@ -50,3 +49,7 @@ Click **Run**, the image should grow from 100px to 300px.
 ![output screenshot](images/step9.gif)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

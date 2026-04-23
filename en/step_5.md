@@ -1,14 +1,14 @@
 <h2 class="c-project-heading--task">Style paragraph text</h2>
 
-### Step 1
-
 Add the `id` in the `index.html` file.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-<div class="c-project-callout c-project-callout--tip">
+## Step 1
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - An ID is used to identify one specific element on a page.
 - In HTML, it is written as id="name".
@@ -34,7 +34,7 @@ line_highlights: 24
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 In `styles.css`, add a `#myCoolText` selector.
 
@@ -62,7 +62,7 @@ line_highlights: 54-59
 --- /code ---
 </div>
 
-### Step 3
+## Step 3
 
 Click **Run** to see the paragraph has a new style.
 
@@ -73,3 +73,7 @@ Click **Run** to see the paragraph has a new style.
 ![output screenshot](images/step6.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

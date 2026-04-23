@@ -1,9 +1,12 @@
 <h2 class="c-project-heading--task">Reusable the text box</h2>
 
-### Step 1
+Add the `stylishBox` class to other part of the website so they are styled too.
 
-Add the `stylishBox` class to other part of the website so they are styled too. Below it is added to the `<main>` of the `index.html` file.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
+
+Below it is added to the `<main>` of the `index.html` file.
 
 <div class="c-project-code">
 --- code ---
@@ -21,7 +24,7 @@ line_highlights: 20
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 Click **Run** to see the changes. Try adding to other parts of your site.
 
@@ -32,3 +35,7 @@ Click **Run** to see the changes. Try adding to other parts of your site.
 ![output screenshot](images/step5.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

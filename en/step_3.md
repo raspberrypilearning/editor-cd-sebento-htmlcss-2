@@ -1,17 +1,14 @@
 <h2 class="c-project-heading--task">Create a reusable text box</h2>
 
-### Step 1
-
 Make a class that you can reuse to style text boxes in your site.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Click on the `conservation.index` file.
 
-
-
-### Step 3
+## Step 2
 
 Add the `stylishBox` class to **all** the sections. The first one is shown below.
 
@@ -37,7 +34,7 @@ line_highlights: 31
 
 </div>
 
-### Step 4
+## Step 3
 
 Add CSS code so that you have the look you want.
 
@@ -68,8 +65,7 @@ line_highlights: 45-52
 
 </div>
 
-
-### Step 5
+## Step 4
 
 Click **Run** to see the changes. Experiment with the colours, `border-radius` until you get the look you want.
 
@@ -80,3 +76,7 @@ Click **Run** to see the changes. Experiment with the colours, `border-radius` u
 ![output screenshot](images/step4.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
