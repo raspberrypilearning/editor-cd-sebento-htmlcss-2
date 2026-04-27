@@ -45,4 +45,4 @@ Click **Run** and move your cursor over an image. The border should switch to da
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run**, move your cursor over an image, and check that its border changes to a dashed line.

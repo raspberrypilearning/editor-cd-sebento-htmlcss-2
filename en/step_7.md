@@ -69,4 +69,4 @@ Click **Run** to test. Move the output window and see the image change size.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the image changes size as you make the output window wider or narrower.

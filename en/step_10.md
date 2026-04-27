@@ -72,4 +72,4 @@ Click **Run** to see your links should change colour when you hover over them.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the links change colour when you hover over them.

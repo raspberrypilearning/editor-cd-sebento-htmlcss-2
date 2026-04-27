@@ -79,4 +79,4 @@ Click **Run** to see the changes. Experiment with the colours, `border-radius` u
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the section has a border with rounded corners.

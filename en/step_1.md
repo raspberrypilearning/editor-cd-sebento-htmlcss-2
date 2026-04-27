@@ -56,4 +56,4 @@ Click **Run** to see the background colour change.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the background colour changes.

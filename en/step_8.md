@@ -52,4 +52,4 @@ Click **Run**, the image should grow from 100px to 300px.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the image grows from small to large.

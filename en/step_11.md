@@ -69,4 +69,4 @@ line_numbers: false
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the owl rolls when you hover over it and that `myCoolText` changes colour again and again.

@@ -76,4 +76,4 @@ Click **Run** to see the paragraph has a new style.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the paragraph now has its new border, padding, and centred text.

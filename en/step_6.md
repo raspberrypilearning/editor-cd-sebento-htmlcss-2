@@ -67,4 +67,4 @@ Click **Run** to see the background colour change on the front page.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the front page now has a rainbow-style background.

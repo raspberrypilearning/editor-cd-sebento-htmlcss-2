@@ -38,4 +38,4 @@ Click **Run** to see the changes. Try adding to other parts of your site.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the part of the page with the `stylishBox` class now uses that style.

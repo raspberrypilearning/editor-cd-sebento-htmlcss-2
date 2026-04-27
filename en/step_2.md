@@ -82,4 +82,4 @@ Click **Run** to see your changes.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the page now has a dotted line across the top.
