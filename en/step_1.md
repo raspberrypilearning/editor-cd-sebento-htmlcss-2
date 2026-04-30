@@ -1,45 +1,59 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Choose colours with hex codes</h2>
 
-A brief description - one or two sentences. 
+Use a hex colour code to change the website background colour.
 
---- print-only ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-![ALT TEXT](images/IMAGE.png)
+## Step 1
 
---- /print-only ---
+Click on the **Project files** tab ad open `styles.css`.
 
---- no-print ---
+## Step 2
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+Replace the `background-colour` with a hex code.
 
---- /no-print ---
 
---- no-print ---
 
-Video embed
+### Tip
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
+<div class="c-project-callout c-project-callout--tip">
 
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
+Try out [this colour picker](http://dojo.soy/se-html2-picker){:target="_blank"} to choose some hex colour codes to use.
 
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
 
-### You will need:
-- a
-- b
-- c
+<div class="c-project-code">
+
+--- code ---
+---
+language: css
+filename: styles.css
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+body {
+  background-color: #c1b6ff; 
+  font-family: "Helvetica", sans-serif;
+  color: purple;
+}
+--- /code ---
+
+</div>
+
+## Step 3
+
+Click **Run** to see the background colour change.
+
+
+
+<div class="c-project-output">
+
+![output screenshot](images/step2.png)
+
+</div>
+
+## Now run your code
+
+Click **Run** and check that the background colour changes.
