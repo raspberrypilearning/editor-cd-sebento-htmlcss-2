@@ -2,8 +2,6 @@
 
 Create a CSS animation and apply it to an element.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Update `#owly` so it animates, then add a `@keyframes` animation at the end of `styles.css`.

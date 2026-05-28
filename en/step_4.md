@@ -2,8 +2,6 @@
 
 Add the `stylishBox` class to other part of the website so they are styled too.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Below it is added to the `<main>` of the `index.html` file.

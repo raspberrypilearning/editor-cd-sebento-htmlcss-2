@@ -2,8 +2,6 @@
 
 Find the `birds.html` in the project files tab.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Update the `<section>` tags to use `class="topDivider"`.

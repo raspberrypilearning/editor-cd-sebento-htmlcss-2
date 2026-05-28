@@ -2,8 +2,6 @@
 
 Make the website feel interactive by changing styles when the mouse hovers over an element.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add a border to all images, then add an `img:hover` rule to change the border style.
