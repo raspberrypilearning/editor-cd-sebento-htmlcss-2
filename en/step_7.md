@@ -2,8 +2,6 @@
 
 Change the front page image with css.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 First, in `index.html` remove the `width` attribute from the barn owl image and give it `id="owly"`.
