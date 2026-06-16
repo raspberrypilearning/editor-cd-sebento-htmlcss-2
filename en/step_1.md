@@ -4,7 +4,7 @@ Use a hex colour code to change the website background colour.
 
 ## Step 1
 
-Click on the **Project files** tab ad open `styles.css`.
+Click on the **Project files** tab and open `styles.css`.
 
 ## Step 2
 
@@ -16,7 +16,7 @@ Replace the `background-colour` with a hex code.
 
 <div class="c-project-callout c-project-callout--tip">
 
-Try out [this colour picker](http://dojo.soy/se-html2-picker){:target="_blank"} to choose some hex colour codes to use.
+Try out [this colour picker](http://dojo.soy/se-html2-picker){:target="_blank"} to choose a colour and find its hex code.
 
 </div>
 
