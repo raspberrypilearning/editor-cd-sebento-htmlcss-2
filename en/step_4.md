@@ -1,10 +1,10 @@
-<h2 class="c-project-heading--task">Reusable the text box</h2>
+<h2 class="c-project-heading--task">Reuse the text box</h2>
 
-Add the `stylishBox` class to other part of the website so they are styled too.
+Add the `stylishBox` class to other parts of the website so they are styled too.
 
 ## Step 1
 
-Below it is added to the `<main>` of the `index.html` file.
+Add the `stylishBox` class to the `<main>` of the `index.html` file.
 
 <div class="c-project-code">
 --- code ---
@@ -24,7 +24,7 @@ line_highlights: 20
 
 ## Step 2
 
-Click **Run** to see the changes. Try adding to other parts of your site.
+Click **Run** to see the changes. Try adding it to other parts of your site.
 
 
 
@@ -36,4 +36,4 @@ Click **Run** to see the changes. Try adding to other parts of your site.
 
 ## Now run your code
 
-Click **Run** and check that the part of the page with the `stylishBox` class now uses that style.
+Click **Run** and check that the parts of the page with the `stylishBox` class now use that style.
