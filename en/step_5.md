@@ -8,10 +8,10 @@ Add the `id` in the `index.html` file.
 
 <div class="c-project-callout c-project-callout--tip">
 
-- An ID is used to identify one specific element on a page.
-- In HTML, it is written as id="name".
-- In CSS, you target it with #name.
-- Each ID value should be unique within the page.
+- An ID is used to identify one specific element on a page
+- In HTML, it is written as id="name"
+- In CSS, you target it with #name
+- Each ID value should be unique within the page
 
 </div>
 
