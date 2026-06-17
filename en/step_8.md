@@ -38,7 +38,7 @@ line_highlights: 69-82
 
 ## Step 2
 
-Click **Run**, the image should grow from 100px to 300px.
+Click **Run**. The image should grow from 100px to 300px.
 
 
 
