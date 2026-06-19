@@ -51,9 +51,9 @@ line_highlights: 61-64
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** to see the background colour change on the front page.
+Click **Run** and check that the front page now has a rainbow-style background.
 
 
 
@@ -63,6 +63,4 @@ Click **Run** to see the background colour change on the front page.
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the front page now has a rainbow-style background.

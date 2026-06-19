@@ -60,9 +60,9 @@ line_highlights: 54-59
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** to see the paragraph has a new style.
+Click **Run** and check that the paragraph now has its new border, padding, and centred text.
 
 
 
@@ -72,6 +72,4 @@ Click **Run** to see the paragraph has a new style.
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the paragraph now has its new border, padding, and centred text.

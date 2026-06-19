@@ -40,10 +40,9 @@ body {
 
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** to see the background colour change.
-
+Click **Run** and check that the background colour changes.
 
 
 <div class="c-project-output">
@@ -52,6 +51,3 @@ Click **Run** to see the background colour change.
 
 </div>
 
-## Now run your code
-
-Click **Run** and check that the background colour changes.

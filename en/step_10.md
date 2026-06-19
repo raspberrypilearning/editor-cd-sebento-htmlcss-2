@@ -56,11 +56,9 @@ line_highlights: 88-95
 --- /code ---
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** to see your links change colour when you hover over them.
-
-
+Click **Run** and check that the links change colour when you hover over them.
 
 <div class="c-project-output">
 
@@ -68,6 +66,4 @@ Click **Run** to see your links change colour when you hover over them.
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the links change colour when you hover over them.
