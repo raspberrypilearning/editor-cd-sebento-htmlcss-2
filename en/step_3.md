@@ -63,10 +63,14 @@ line_highlights: 45-52
 
 </div>
 
+
+## Now run your code
+
+Click **Run** and check that the section has a border with rounded corners.
+
 ## Step 4
 
-Click **Run** to see the changes. Experiment with the colours and border settings like `border-radius` until you get the look you want.
-
+Experiment with the colours and border settings like `border-radius` until you get the look you want.
 
 
 <div class="c-project-output">
@@ -75,6 +79,4 @@ Click **Run** to see the changes. Experiment with the colours and border setting
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the section has a border with rounded corners.

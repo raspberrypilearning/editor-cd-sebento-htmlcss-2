@@ -36,10 +36,9 @@ line_highlights: 69-82
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run**. The image should grow from 100px to 300px.
-
+Click **Run** and check that the image grows from small to large.
 
 
 <div class="c-project-output">
@@ -48,6 +47,4 @@ Click **Run**. The image should grow from 100px to 300px.
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the image grows from small to large.

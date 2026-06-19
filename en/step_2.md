@@ -66,9 +66,9 @@ img {
 --- /code ---
 </div>
 
-## Step 4
+## Now run your code
 
-Click **Run** to see your changes.
+Click **Run** and check that the page now has a dotted line across the top.
 
 
 
@@ -78,6 +78,4 @@ Click **Run** to see your changes.
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the page now has a dotted line across the top.

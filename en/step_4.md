@@ -22,9 +22,13 @@ line_highlights: 20
 --- /code ---
 </div>
 
+## Now run your code
+
+Click **Run** and check that the parts of the page with the `stylishBox` class now use that style.
+
 ## Step 2
 
-Click **Run** to see the changes. Try adding it to other parts of your site.
+Try adding it to other parts of your site.
 
 
 
@@ -34,6 +38,4 @@ Click **Run** to see the changes. Try adding it to other parts of your site.
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the parts of the page with the `stylishBox` class now use that style.

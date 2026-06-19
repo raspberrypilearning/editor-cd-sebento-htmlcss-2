@@ -29,9 +29,9 @@ img:hover {
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** and move your cursor over an image. The border should switch to dashed.
+Click **Run**, move your cursor over an image, and check that its border changes to a dashed line.
 
 
 
@@ -41,6 +41,4 @@ Click **Run** and move your cursor over an image. The border should switch to da
 
 </div>
 
-## Now run your code
 
-Click **Run**, move your cursor over an image, and check that its border changes to a dashed line.

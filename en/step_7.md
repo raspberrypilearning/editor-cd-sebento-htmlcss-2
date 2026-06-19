@@ -53,10 +53,9 @@ line_highlights: 66-70
 
 </div>
 
-## Step 3
+## Now run your code
 
-Click **Run** to test. Move the output window and see the image change size.
-
+Click **Run** and check that the image changes size as you make the output window wider or narrower.
 
 
 <div class="c-project-output">
@@ -65,6 +64,4 @@ Click **Run** to test. Move the output window and see the image change size.
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that the image changes size as you make the output window wider or narrower.
