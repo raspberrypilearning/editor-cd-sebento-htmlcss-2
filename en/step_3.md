@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Create a reusable text box</h2>
 
-Make a class that you can reuse to style text boxes in your site.
+Make a class that you can reuse to style text boxes on your site.
 
 ## Step 1
 
@@ -65,7 +65,7 @@ line_highlights: 45-52
 
 ## Step 4
 
-Click **Run** to see the changes. Experiment with the colours, `border-radius` until you get the look you want.
+Click **Run** to see the changes. Experiment with the colours and border settings like `border-radius` until you get the look you want.
 
 
 

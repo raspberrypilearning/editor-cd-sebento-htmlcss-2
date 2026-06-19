@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Style the image</h2>
 
-Change the front page image with css.
+Change the front page image with CSS.
 
 ## Step 1
 

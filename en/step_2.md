@@ -38,9 +38,9 @@ Click on the `styles.css` tab add a `topDivider` class.
 ## Step 3
 
 Edit the design of the border to make it look how you want it:
-- make it `dotted` or `dashed`
-- change the colour and width
-- add more or less padding
+- Make it `dotted` or `dashed`
+- Change the colour and width
+- Add more or less padding
 
 
 <div class="c-project-code">

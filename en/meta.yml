@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Take your website design skills further!
 theme: navy
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: true
 curriculum: ''
@@ -22,7 +22,7 @@ steps:
     completion:
       - engaged
   - title: Create a reusable text box
-  - title: Reusable the text box
+  - title: Reuse the text box
   - title: Style paragraph text
   - title: Give the home page a unique id
   - title: Style the image

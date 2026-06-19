@@ -1,12 +1,10 @@
-<h2 class="c-project-heading--task">Challenge: glowing links</h2>
+<h2 class="c-project-heading--task">Challenge: Glowing links</h2>
 
 Create a “glowing link” style and apply it to links on your website.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
-Add `class="niceLinks"` to any link on your site. It will need to be inside `<a>`. Below shows the class added to `index.html`.
+Add `class="niceLinks"` to any link on your site. It needs to be inside the `<a>` tag. The example below shows the class added to `index.html`.
 
 
 <div class="c-project-code">
@@ -60,7 +58,7 @@ line_highlights: 88-95
 
 ## Step 3
 
-Click **Run** to see your links should change colour when you hover over them.
+Click **Run** to see your links change colour when you hover over them.
 
 
 
