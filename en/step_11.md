@@ -1,17 +1,10 @@
-<h2 class="c-project-heading--task">More challenges</h2>
+## More challenges
 
 Add more animations to make the `#owly` image roll around.
 
 ## Step 1
 
-<div class="c-project-code">
-
---- code ---
----
-language: css
-filename: styles.css
-line_numbers: false
----
+```css
 #owly:hover {
   animation-name: rollOver;
   animation-duration: 1s;
@@ -26,27 +19,20 @@ line_numbers: false
     transform: rotate(-360deg);
   }
 }
---- /code ---
-</div>
+```
 
 ## Step 2
 
 Try adding some `rainbowGlow` animations to your `myCoolText`.
 
-<div class="c-project-code">
-
---- code ---
----
-language: css
-filename: styles.css
-line_numbers: false
----
+```css
 #myCoolText {
   color: #003366;
-  border: 2px ridge #ccffff;padding: 15px;
-  text-align: center;animation-name: rainbowGlow;
+  border: 2px ridge #ccffff;
+  padding: 15px;
+  text-align: center;
+  animation-name: rainbowGlow;
   animation-duration: 1.5s;
-  animation-iteration-count: 1;
   animation-iteration-count: infinite;
   }
 
@@ -62,8 +48,7 @@ line_numbers: false
     }
   }
 
---- /code ---
-</div>
+```
 
 ## Now run your code
 

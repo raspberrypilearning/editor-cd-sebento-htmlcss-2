@@ -1,21 +1,10 @@
-<h2 class="c-project-heading--task">Animate parts of your site</h2>
+## Animate parts of your site
 
 Create a CSS animation and apply it to an element.
 
-## Step 1
-
 Update `#owly` so it animates, then add a `@keyframes` animation at the end of `styles.css`.
 
-
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: styles.css
-line_numbers: true
-line_number_start: 66
-line_highlights: 69-82
----
+```css filename="styles.css" line_numbers="true" line_number_start="66" line_highlights="69-82"
 #owly {
   width: 50%;
   border-radius: 100%;
@@ -32,19 +21,10 @@ line_highlights: 69-82
     width: 300px;
   }
 }
---- /code ---
-
-</div>
+```
 
 ## Now run your code
 
 Click **Run** and check that the image grows from small to large.
 
-
-<div class="c-project-output">
-
 ![output screenshot](images/step9.gif)
-
-</div>
-
-
